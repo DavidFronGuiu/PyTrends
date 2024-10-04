@@ -1,5 +1,5 @@
 # PyTrends
-Ejercicios para aprender a utilizar la librería de Python <i>PyTrends</i>.
+Ejercicios para aprender a utilizar la librería de Python <i>PyTrends</i> que nos permite utilizar la herramienta <i>Google Trends</i>.
 
 Comando de instalación: <i>pip install pytrends</i>
 
